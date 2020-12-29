@@ -1,0 +1,30 @@
+{
+  "name": "CityPortal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "CityPortal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@unitybase/adminui-pub": "^5.14.0",
+    "@unitybase/adminui-reg": "^5.4.66",
+    "@unitybase/adminui-vue": "^1.14.0",
+    "@unitybase/cdn": "^5.4.60",
+    "@unitybase/org": "^5.4.30",
+    "@unitybase/pdf": "^5.0.31",
+    "@unitybase/ub": "^5.7.16",
+    "@unitybase/ub-migrate": "^1.17.3",
+    "@unitybase/uba": "^5.4.53",
+    "@unitybase/ubm": "^5.4.42",
+    "@unitybase/ubq": "^5.4.26",
+    "@unitybase/ubs": "^5.4.48",
+    "@unitybase/xlsx": "^5.1.57"
+  },
+  "devDependencies": {
+    "@unitybase/stubs": "^5.1.6",
+    "@unitybase/ubcli": "^5.12.0"
+  }
+}
