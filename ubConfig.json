@@ -124,8 +124,7 @@
   "uiSettings": {
     "adminUI": {
       // Settings for admin UI
-      // "endpoint": "index.html",
-      "endpoint": "adm",
+      "endpoint": "index.html",
       // Name of application for show on the login form,
       "applicationName": "City Portal",
       // Title of HTML page for adminUI,
