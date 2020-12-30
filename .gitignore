@@ -43,3 +43,5 @@ docker-compose.yaml
 avatars
 inetPub
 *.db
+*.db-shm
+*.db-wal
